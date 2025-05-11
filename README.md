@@ -39,9 +39,7 @@ A lightweight and modular chatbot application built using Streamlit, LangChain, 
 ---
 
 ### 📊 LangSmith Metrics Panel
-<img src="assets/Screenshot 2025-05-11 232114.png" alt="LangSmith Metrics Overview" width="700"/>
-
-(Note: Two metrics screenshots currently point to the same file for demonstration)
+<img src="assets/Screenshot 2025-05-11 232125.png" alt="LangSmith Metrics Overview" width="700"/>
 
 ---
 
@@ -68,4 +66,5 @@ See the LICENSE file for full details.
 
 Created by Harsh Gidwani  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-gidwani-497a63243/)
+
 
