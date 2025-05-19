@@ -1,4 +1,4 @@
-# 🧠 Ollama LLM Chatbot – Streamlit App powered by Deepseek-R1
+# 🧠 Ollama LLM Chatbot – Streamlit App powered by Deepseek
 
 A lightweight and modular chatbot application built using Streamlit, LangChain, and Ollama, powered by the deepseek-r1:8B open LLM. It features LangSmith integration for seamless observability, making this demo ideal for testing, analysis, and educational purposes.
 
